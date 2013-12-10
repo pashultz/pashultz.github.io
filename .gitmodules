@@ -1,0 +1,3 @@
+[submodule "game-critique/reveal.js"]
+	path = game-critique/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
