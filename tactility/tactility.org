@@ -1,0 +1,223 @@
+#+Title: Icy Timbres in Video-Game Music  
+#+Author: Peter Shultz
+#+Email: pashultz@uchicago.edu
+
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:nil num:nil
+#+OPTIONS: reveal_width:1024 reveal_height:600
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: moon
+#+REVEAL_EXTRA_CSS: styles.css
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_ROOT: ../reveal.js
+
+#\+\(BEGIN\|END\)_NOTES
+
+* Snow and Ice
+On the video-game discussion site NeoGAF, some topics are perennial, appearing again and again. One of these is the music of snow and ice areas.
+** November, 2009
+[[file:img/neogaf-2009a.png]]
+"Favorite Christmas/Winter theme Videogame music tracks"
+** December, 2009
+[[file:img/neogaf-2009b.png]]
+"Music in videogames that remind you of the snow, the cold, and winter"
+** December, 2012
+[[file:img/neogaf-2012.png]]
+"Best Christmas, winter and ice themed videogame music"
+** February, 2014
+[[file:img/neogaf-2014.png]]
+"Snow Worlds/Levels tend to have the best music!"
+* The results
+Altogether, the participants in these discussions identified almost two hundred musical cues (193 tracks from 146 different games) as being somehow snowy, icy, and wintery.
+
+These cues vary too much to count as a single style or genre: they cover all sorts of different tempos, meters, melodic and harmonic idioms. And while game composers often represent environments by means of ethnic music stereotypes (augmented seconds for desert areas, parallel fourths for pagodas), these bits of "Ice Music" do not lean on any such melodic or harmonic figures consistently.
+- 193 different cues
+- 146 different games
+
+** Metroid Prime (Retro 2002), "Phendrana Drifts"
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="./vid/Metroid Prime - Phendrana Drifts.mp4"></video>
+by Kenji Yamamoto
+** Super Mario Bros. 3 (Nintendo 1988), "Ice Land"
+:PROPERTIES:
+:reveal_background: ./img/smb3-ice-land.jpg
+:END:
+#+REVEAL_HTML: <audio data-autoplay src="./aud/smb3.m4a"></audio>
+by Koji Kondo
+** Zelda: Ocarina of Time (Nintendo 1998), "Ice Cavern"
+:PROPERTIES:
+:reveal_background: ./img/ocarina-ice-cavern.jpg
+:END:
+#+REVEAL_HTML: <audio data-autoplay src="./aud/zelda-oot-ice-cavern.m4a"></audio>
+by Koji Kondo
+** Secret of Mana (Squaresoft 1998), "A Bell Is Tolling (Ice Palace)"
+:PROPERTIES:
+:reveal_background: ./img/som-ice-palace.png
+:END:
+#+REVEAL_HTML: <audio data-autoplay src="./aud/som-bell.m4a"></audio>
+by Hiroki Kikuta
+** Final Fantasy VII (Squaresoft 1996), "Buried in the Snow"
+:PROPERTIES:
+:reveal_background: ./img/ff7-icicle-inn.png
+:END:
+#+REVEAL_HTML: <audio data-autoplay src="./aud/ff7-buried.m4a"></audio>
+by Nobuo Uematsu
+* What makes winter music? 
+So what do these pieces of music have in common, if not harmonic or melodic material? Pragmatically, of course, they are united by the fact of their having been deployed in ice areas of video games. But they also feature a consistent set of timbres.
+
+(Note: I use the term timbre in a relatively informal way, including any aspects of a sound not denoted by pitch, duration, and volume—with special attention to material qualities.)
+** Some statistics
+- at least 50% have bells (a quarter of them being sleighbells),
+#+ATTR_REVEAL: :frag roll-in
+- 13% have high-register piano (plus 5% with Fender Rhodes),
+#+ATTR_REVEAL: :frag roll-in
+- 11% have pizzicato,
+#+ATTR_REVEAL: :frag roll-in
+- 11% have choir,
+#+ATTR_REVEAL: :frag roll-in
+- 10% have "wind" sounds,
+#+ATTR_REVEAL: :frag roll-in
+- only 20% had none of these (though some had synthetic sounds that approximated one or another of them).
+
+** Players notice this too
+[[file:img/neogaf-58.png]]
+[[file:img/neogaf-87.png]]
+
+"Seems like anything with a drone and a high chorus/synth pad/orchestra bells does the trick."
+
+"A lot of good examples here, but it seems the vast majority of games use tranquil sounds with high pitch notes or chimes for ice levels. I've heard it so much, every time I hear songs with similar sounds, I think of snow and ice. LOL."
+** Icy timbres
+- "cold," "bright," and "hard"
+#+ATTR_REVEAL: :frag roll-in
+- consistent across games
+#+ATTR_REVEAL: :frag roll-in
+- often marked within games
+#+ATTR_REVEAL: :frag roll-in
+- can be deployed in a variety of styles and contexts
+#+ATTR_REVEAL: :frag roll-in
+- in short, a /topic/
+
+Of course, these icy timbres are not just an arbitrary collection of instruments. They cluster around a few timbral attributes, roughly:
+
+- cold :: they feature prominent high-frequencies and little low to mid range
+- bright :: their upper harmonics are strong compared to the fundamental
+- hard :: many of the sounds are percussive, with no sustain and sharp decay
+
+[ADVANCE] They are reasonably consistent across many games in all different genres, over many years, accounting for the various limitations in audio hardware.
+
+(At this point I have to acknowledge a major caveat: by lumping all these ice tracks together, this approach risks essentializing the trope and flattening its history. This is especially problematic with timbre, which has been a focus of innovation for practically the entire history of the medium.)
+
+[ADVANCE] Within most of these games, these timbres are relatively marked: they are foregrounded in these areas, and relatively unimportant or absent elsewhere.
+
+[ADVANCE] They can be deployed in a variety of styles and contexts while retaining their identity as "icy sounds."
+
+[ADVANCE] This is a familiar situation, and we have theoretical tools that can work with this kind of musical material.
+* Timbre and topic
+The theory of musical topics (or topoi) was developed by Wendy Allanbrook, Leonard Ratner, Kofi Agawu, Raymond Monelle, Robert Hatten, and others to engage semiotically with 18th- and 19th-century music by Mozart, Haydn, and their contemporaries. This theory sets formalist analysis aside in favor of identifying topics, or "elements of musical discourse" (in Ratner's words), that would be significant to a literate audience: allusions to Baroque dance types and military bands, melodic sighing figures, the "learned style" of fugal counterpoint, stylized hunting horns, and so on.
+** 
+Some of these topics are more clearly circumscribed than others: hunting-horn figures and lamento bass involve specific pitch progressions, while "Sturm und Drang" style is more open-ended. But timbre, per se, rarely figures into the discussion. Most of the time, it is precisely what is elided from a topic: this elision is what allows a piano to imitate a hunting horn, or a violin to imitate a singing voice.
+** 
+[[file:img/reindeer.gif]]
+
+http://www.how-to-draw-cartoons-online.com/
+
+But in our present-day musical culture, some timbres can also function as "elements of discourse," retaining their identity even when deployed in new settings. Add sleighbells to a country track, and it becomes Christmas country. Add sleighbells to a hip-hop track, and it becomes Christmas hip-hop. Sleighbells and punk makes Christmas punk.
+** 
+Now, we could say this is beyond the purview of topic theory: 18th-century composers wrote for relatively fixed ensembles of instruments—keyboards, string quartets—which didn't allow the sort of timbral flexibility that we have now with recording technology. And some topics such as the hunting-horn /Lebewohl/, seem to pointedly ignore timbre, allowing any instrument to represent a horn just by invoking its characteristic pitch and rhythm. Musette style is similar, with its stylized bagpipe drones. In these cases, timbre is precisely what topics ignore: they abstract away from it in order to mobilize across a wide variety of instrumental (and sometimes vocal) contexts.
+
+But sometimes topics seem to have timbral elements after all: the /Sturm und Drang/ style tends toward minor and diminished harmonies, but it also depends on thudding, percussive chords in a low register. The characteristic pitches and rhythms, while important, are not sufficient to create the full /Sturm und Drang/ effect.
+* Timbre in Turkish style
+[[file:img/piano.jpg]]
+
+An even clearer example of expressive timbre is the "Turkish style" of the late eighteenth and early nineteenth centuries. Like the /Sturm und Drang/, it is marked not just by melodic and rhythmic figures, but also by characteristic timbres: piercing wind instruments, drums, and cymbals. Indeed, Eric Rice draws on contemporary accounts to suggest that these new timbres were the primary attraction of the Janissary (or more properly /mehter/) music from which the style was ostensibly derived. When European composers wrote Turkish-style music for orchestras, they invariably leaned heavily on drums and cymbals, with oboes and trumpets approximating the sound of the Turkish /zurna/ and /boru/. Grand pianos acquired new "Janissary" pedals, which hit a bass drum and cymbal. This one from Vienna circa 1815 has a Janissary pedal, a bassoon pedal, a harp pedal, and two moderator pedals (practice mutes, more or less), as well as the damper and /una corda/ pedals that survive on modern instruments. 
+
+So what does this tell us? For one thing, it reminds us that there's nothing new about using timbre as an expressive, referential device—that practice long predates recording technology. It also suggests that topic theory could be a good way to describe this kind of timbral expression: it integrates timbral effects into a more general musical discourse.
+
+* What do icy timbres stand for?
+Many topics are considered /referential/: they index musical styles (the minuet, the fugue), instruments (hunting horns), sounds of nature (storm), or the human voice (singing, sighing). No matter how complex the cultural meanings of Turkish Janissary music may be, they are thus in some sense circumscribed by the indexical relationship to Turkish culture: they stand for whatever Turkishness means in Viennese society at the time—according to Rice, a combination of militarism, backwardness, and general otherness.
+
+So, are the timbres of ice music also referential in this way? On the one hand, few of the instruments belong to any stereotyped musical culture: glockenspiel, celeste, piano, and harp are fairly international. And the Nordic and Russian musical styles that /could/ most plausibly have been used for ice worlds are not invoked as often as might be expected, given the ubiquity of visual references to their architecture and clothing.
+
+There are exceptions: for example, Jeremy Soule’s main theme for /Skyrim/ uses a stereotypical "Viking chorus," and Kenny Young and Brian D'Oliveira use a Scandinavian-sounding fiddle for the snowy Gibbet Hill area in their score to /Tearaway/ (Media Molecule 2013). But the "ice music" trope doesn't require this sort of allusion to Nordic music.
+
+** Christmas allusions
+On the other hand, thirty-five of the cues use sleighbells, the very sound of Christmas—a timbre with as strong and specific a cultural association as any musical topic. Two of the NeoGAF thread titles mention "Christmas" right alongside "ice" and "winter," and several of the tunes are arrangements of pre-existing Christmas songs, or in the case of David Wise's score to /Diddy Kong Racing/ (Rare 1997) tunes that allude to famous copyrighted Christmas songs such as "White Christmas" and "Santa Claus Is Coming to Town" without quite coming close enough to count as plagiarism. And Grant Kirkhope's 1998 score to "Freezeezy Peak" (/Banjo-Kazooie/) opens with a brass fanfare that alludes to the "Waltz of the Flowers" from Tchaikovsky's /Nutcracker Suite/.
+
+*** /Banjo-Kazooie/ (Rare 1998), "Freezeezy Peak" 
+#+REVEAL_HTML: <audio data-autoplay src="./aud/banjo-freezeezy.m4a"></audio>
+by Grant Kirkhope
+
+So for at least some games and players, there is significant overlap between "ice music" and "Christmas music."
+
+But not all ice music has Christmas cheer. Only about 1/8 of the cues in the entire corpus use sleighbells, and the examples we heard earlier (which are among the most frequently mentioned in these discussions) take a more somber tone. So Christmas spirit does not exhaust the referentiality of ice music.
+
+* Feeling cold, hearing cold
+In the rest of this paper, I would like to sketch an argument that these icy timbres refer not just to cultural associations of winter, but also to the actual sense experiences of cold.
+
+[[file:img/phendrana-cold-neogaf.png]]
+
+"What's so strange about Phendrana (maybe it's just me) is that combined with the visuals, it actually makes you feel cold."
+
+"This is literally what makes it the best snow level in videogames. You feel as if you are actually there, in the coldest environment ever."
+
+These players claim that the game—visuals and music—actually induces a bodily feeling of coldness. This may sound like hyperbole, but it might not be so farfetched.
+
+** Lonely is cold
+Zhong, Chen-Bo, and Geoffrey J. Leonardelli. “Cold and Lonely: Does Social Exclusion Literally Feel Cold?” /Psychological Science/ 19, no. 9 (September 1, 2008): 838–842. doi:10.1111/j.1467-9280.2008.02165.x.
+
+This study found that subjects who were asked to recall episodes of social exclusion subsequently estimated the room temperature to be lower than others, and were more likely to ask for hot food and drink afterward.
+
+Ijzerman, Hans, Marcello Gallucci, Wim T J L Pouw, Sophia C Weiβgerber, Niels J Van Doesum, and Kipling D Williams. “Cold-Blooded Loneliness: Social Exclusion Leads to Lower Skin Temperatures.” /Acta Psychologica/ 140, no. 3 (July 2012): 283–288. doi:10.1016/j.actpsy.2012.05.002.
+
+A later experiment found that participants who were shunned in an online game actually got cold fingers. This suggests that the feelings of coldness are not just imaginary; as the authors put it, "People feel colder because they are colder."
+
+These results about social exclusion do not necessarily imply that the imaginary isolation of deserted areas in single-player games will make players feel cold—let alone because of the music—but they don't preclude it. They suggest that we perceive temperature, and conceive of temperature, by means of more than just the sense of touch.
+
+** Cold sound
+
+[[file:img/cold-film-sound.png]]
+
+Certainly we have no problem using temperature terms to /describe/ timbre. Film sound designers have tricks for making scenes sound "cold," which they justify in acoustical/ecological terms: "Small sounds seem magnified in contrast to the quiet of the ambient sounds. Distant sounds are duller due to greater atmospheric absorption of high frequencies in colder temperatures." In this system of ecological realism, "cold" sounds are ones that mimic the soundscapes of cold weather.
+
+But when audiophiles (of a certain stripe) distinguish the "warm" sound of tube amps and vinyl from the "cold" sound of digital amps and CDs, they use a different logic, ascribing warmth or coldness to the sound itself. Tube amps sound warm (they say) because of the intermodulation of low harmonics, and traditional vinyl mastering sounds warmer than CDs because it softens high frequencies. But note that these technical explanations come after the judgments of warmth and coldness, serving as justification. And while audiophiles may offer a variety of reasons why one system sounds warmer than another, its acoustic "temperature" is available to experience.
+
+The musical coldness of video game worlds is like the audiophile's coldness: we hear it first and explain it only when pressed.
+
+** Connections between sound and touch
+In the last few decades, scholars in several disciplines have converged on the position that hearing and touch have an especially close connection. 
+
+Garcia, Luis-Manuel. “‘Can You Feel It, Too?’: Intimacy and Affect at Electronic Dance Music Events in Paris, Chicago, and Berlin.” Ph.D. Dissertation, The University of Chicago, 2011. 
+
+In music scholarship, Luis-Manuel Garcia, extending Laura U. Marks's theory of "haptic visuality" in film, writes of "haptic aurality" in which we hear texture through "richly textured, granular, embodied sounds that draw attention to haptic experience." (The dissertation is great, but the new and improved book is coming soon!)
+
+Ihde, Don. /Listening and Voice: Phenomenologies of Sound/. 2nd ed. Albany: State University of New York Press, 2007.
+
+In philosophy, Don Ihde mounts a phenomenological critique of "sense atomism," the venerable dogma that sensory experience consists of five distinct channels that we then integrate into a coherent image. One of his motivating examples involves the transition between hearing and touch: before an airplane flies overhead, we feel its approach in the ground, then we hear it, then feel it again after it passes. "Phenomenologically," Ihde writes, "I do not hear with my /ears/. I /hear/ with my whole body. My ears are at best the /focal/ organs of hearing."
+
+Eitan, Zohar, and Inbar Rothschild. “How Music Touches: Musical Parameters and Listeners’ Audio-Tactile Metaphorical Mappings.” /Psychology of Music/ 39, no. 4 (October 1, 2011): 449–467. doi:10.1177/0305735610377592.
+
+In addition to studies of perception and perceptual judgment, music scholars have investigated the way sound qualities map onto linguistic metaphors of touch. Eitan and Rothschild's 2012 study found that listeners judge high pitches to be cold and loud tones warm, but timbre was not a major concern—the stimuli were all sustained notes on piano and violin, with nothing approaching the characteristic timbres associated with ice in games.
+
+Ro, Tony, Timothy M. Ellmore, and Michael S. Beauchamp. “A Neural Link Between Feeling and Hearing.” Cerebral Cortex 23, no. 7 (July 1, 2013): 1724–1730. doi:10.1093/cercor/bhs166.
+
+In neuroscience, recent work on tactile perception shows that the auditory and somatosensory cortices are strongly linked, and tactile experience is temporally coded, like sound. (It is already widely known that tactile perception depends partly on hearing, particularly concerning judgments of roughness or dryness.) This suggests that the brain may represent texture multimodally or supramodally—as a quality that may manifest across sensory modalities. While this does not necessarily entail anything about the tactile and sonic perception of temperature, it suggests—in conjunction with the loneliness studies mentioned earlier—that temperature (and perhaps other somatic senses) may manifest in multiple modalities.
+
+** Cold: Not just for touching?
+In other words,  when we say these tunes "sound cold," it may not be just a figure of speech. Coldness may be like roughness, an ostensibly tactile sensation that turns out to have components in other sensory domains as well. In that case, these high-pitched, sharply-decaying, icy sounds could be cold in more than just a metaphorical sense.
+
+* Conclusions and caveats
+Ice music in games uses cold, hard, and bright timbres.
+
+The referential capacity of musical timbre extends to tactile experience.
+
+Topic theory is a promising approach for music with referential timbres.
+* Other issues to work in some day
+** water and ice in the standard rep: /Fantasia/, Debussy
+- any way to work in Harold Clurman's quip about Martinu as "Chinese nightclub underwater"?
+** remastered versions of games and music: /DuckTales/, /Smash Bros./
+* Questions?
+pashultz@uchicago.edu
