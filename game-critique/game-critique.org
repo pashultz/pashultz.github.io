@@ -6,7 +6,7 @@
 # 120 people in class
 # 90 minutes for me, then we leave
 
-#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:nil
 #+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
 #+OPTIONS: toc:1
 #+REVEAL_MARGIN: 0.1
@@ -62,7 +62,7 @@ undone; the ‘save-die-restart’ sequence makes Alpha and Bravo
 immortal. This is, of course, the big lie of war-as-video-game.
 #+END_QUOTE
 
-Dyer-Witheford, Nick, and Greig de Peuter. /Games of Empire: Global Capitalism and Video Games/. University of Minnesota Press, 2009. 112.
+Nick Dyer-Witheford and Greig de Peuter. /Games of Empire: Global Capitalism and Video Games/. University of Minnesota Press, 2009. 112.
 
 ** What are the alternatives?
 
@@ -93,7 +93,7 @@ fallen body and lugging it back to safety under a senseless hail of
 bullets—is incredibly difficult.”
 #+END_QUOTE
 
-Anthropy, Anna. /Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People like You Are Taking Back an Art Form/. Seven Stories , 2012. 19.
+Anna Anthropy. /Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People like You Are Taking Back an Art Form/. Seven Stories , 2012. 19.
 
 *** TODO /Spec Ops: The Line/
 :PROPERTIES:
@@ -105,7 +105,7 @@ The game is perfectly aware that it’s incentivizing killing. It wants to. It�
 Unlike most shooters, Spec Ops: The Line wonders what kind of person likes virtual killing enough to spend hours engaged in it. It bothers to ask, “Aren’t we all a little sick and crazy to want this?”
 #+END_QUOTE
 
-Bissell, Tom. “Thirteen Ways of Looking at a Shooter.” Grantland.com, July 12, 2012. http://www.grantland.com/story/_/id/8157257/line-explores-reasons-why-play-shooter-games.
+Tom Bissell. “Thirteen Ways of Looking at a Shooter.” Grantland.com, July 12, 2012. http://www.grantland.com/story/_/id/8157257/line-explores-reasons-why-play-shooter-games.
 
 *** /Tower of the Blood Lord/
 #+REVEAL_HTML: <img class="stretch" src="./img/blood-lord-base.png" />
@@ -123,7 +123,7 @@ procedural systems like computer software actually represent process
 with process.
 #+END_QUOTE
 
-Bogost, Ian. /Persuasive Games: The Expressive Power of Videogames/. Cambridge, MA: MIT Press, 2007. 14.
+Ian Bogost. /Persuasive Games: The Expressive Power of Videogames/. Cambridge, MA: MIT Press, 2007. 14.
 
 ** Hold a mirror to the world
 #+REVEAL_HTML: <img class="stretch" src="img/newsgames.jpg" />
@@ -150,7 +150,7 @@ they are insufficient for the task to which they are currently being
 put.
 #+END_QUOTE
 
-Bogost, Ian. “Review of I Can End Deportation.” /Water Cooler Games/,
+Ian Bogost. “Review of I Can End Deportation.” /Water Cooler Games/,
 March 17, 2008.
 http://www.bogost.com/watercoolergames/archives/review_of_i_can.shtml.
 ** Or make an unrealistic world that would justify the unjustifiable
@@ -167,7 +167,8 @@ for this klik of the month, it had been suggested that we all use animated gifs 
 
 Anna Anthropy, http://auntiepixelante.com/?p=1325
 
-* Disagreeing with games
+*** 
+* Disagreeing with systems
 
 ** Ideology and realism
 
@@ -202,7 +203,7 @@ underestimation of the social---as opposed to the
 material---dimensions of city life.
 #+END_QUOTE
 
-Kolson, Kenneth. “The Politics of SimCity.” /PS: Political Science and Politics/ 29, no. 1 (March 1, 1996): 43–46.
+Kenneth Kolson. “The Politics of SimCity.” /PS: Political Science and Politics/ 29, no. 1 (March 1, 1996): 43–46.
 
 ** /Prison Architect/
 :PROPERTIES:
@@ -223,239 +224,208 @@ Criticisms:
 [[zotero://select/items/0_MATMBCZ4][Pedercini, Paolo. “​What To Do With Prison Architect, A Video Game About Building Prisons?” Kotaku, January 20, 2014. http://kotaku.com/what-to-do-with-prison-architect-a-video-game-about-b-1505204131.]]
 
 *** What grounds this critique?
-- In other words, why would any of this be a problem?
+- Let's assume Pedercini has most of the facts right, and the game doesn't accurately model reality.
 #+ATTR_REVEAL: :frag roll-in
-- Is it a problem?
+- Why would this be a problem?
 
-* Interlude: design a game in three minutes
+* Five-minute design challenge!
 
-** Vegetarianism /  
-
-* old slides
-
-** Critique or glorification?
-
-Can a game be too much fun?
-
-*** Prison Architect
+** Design a persuasive game on the given topic
+- Work in groups of three or four.
+- What are players trying to accomplish?
+- What stands in their way?
+- What should players take away from the game?
+** 
 :PROPERTIES:
-:reveal_background: ./img/prison-architect.jpg
+:reveal_background: ./img/veggies-and-bass.jpg
+:END:
+** 
+:PROPERTIES:
+:reveal_background: ./img/veggies-and-bass.jpg
 :END:
 
-“We have a chapter where a politician decides that he would like to
-run an experiment. He says to you that you should try and create a
-full reform prison where budget is no object. Assuming money was no
-factor, how much could you actually do with a reform prison? […]
-
-“And then when people come to play the sandbox, we’re hoping that we
-will have seeded their mind a little bit with some of the moral issues
-behind each of the decisions they might make. We’ll let the player
-build an execution chamber in the sandbox, and I’ve no doubt that
-people are going to build vast execution prisons, but I don’t really
-have a problem with that.”
-
-Chris Delay, lead designer and programmer
-
-*** Hotline: Miami
-:PROPERTIES:
-:reveal_background: ./img/hotline-miami.jpg
-:END:
-
-*** Cow Clicker
-#+REVEAL_HTML: <img class="stretch" src="img/cow-clicker.jpg" />
-
-** The limits of system-based critique
-- To what extent is the meaning of the rules shaped by aesthetic
-  presentation?
-- Can game mechanics carry a message in themselves?
-
-** Disruptive game mechanics
-
-“Mechanics are politics. We’ve been playing straight games.”
-
-—Joli St. Patrick and Joe Mcdaldno, “Beyond Representation: Queer Mechanics in Tabletop Games”
-
-** Disruptive game mechanics
-
-#+ATTR_REVEAL: :frag roll-in
-- The Fruitful Void: Your game is about whatever it is conspicuously missing.
-#+ATTR_REVEAL: :frag roll-in
-- Character non-monogamy: You don’t own the character exclusively.
-#+ATTR_REVEAL: :frag roll-in
-- Enshrining the preposterous: Games don’t need to be physics engines
-
-** 10-minute game design challenge
-
-- work in groups of three or four
-- left: immigration, right: healthcare/insurance
-- whom/what does the player control?
-- what systems do they interact with?
-- what do they learn or understand through playing the game?
-
-** Part II: Inhabiting roles
-
-*** Gender in games
-- Mainstream games have not done well representing women
-- Anita Sarkeesian (Feminist Frequency) on the “Damsel in Distress” trope
-#+REVEAL_HTML: <img class="stretch" src="img/anita-sarkeesian.jpg" />
-
-*** Gender in games
-- Anna Anthropy: “The problem with videogames is that they’re created by a small,
-  insular group of people.”
-
-*** Anna Anthropy: We need different people making games
-
-“Many of these games will be mediocre, of course; the majority of work
-in any form is mediocre. But we’ll see many more interesting ideas
-just by the sheer mathematical virtue of so many people producing
-games without the commercial obligations industry games are beholden
-to. […] And even if a game isn’t original, it’s personal, in the way a
-game designed to appeal to target demographics can’t be. And that’s a
-cultural artifact our world is a little bit richer for having.”
-
-*** Twine and minorities
-
-http://twinehub.com/
-
-*** Game design challenge, round 2
-
-This time, focus on persuasion through role
-
-- work in groups of three or four
-- left: healthcare/insurance, right: immigration
-- whom/what does the player control?
-- what systems do they interact with?
-- what do they learn or understand through playing the game?
-
-** Part III: Telling stories
-
-* Contact
-Peter Shultz
-pashultz@uchicago.edu
-
-* examples -- can't use 'em all
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/5-minutes.mp4"></video>
+** Let's hear it!
+- What are players trying to accomplish?
+- What stands in their way?
+- What should players take away from the game?
+* Role play and empathy
 ** Lucas Pope, /Papers, Please/
-#+REVEAL_HTML: <img class="stretch" src="img/papers-please-jorji.png" />
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay.jpg
+:END:
 
-- What changes over the course of the game?
-- What do its systems convey?
-- What about the player’s role?
-- What would be different if it were set in a made-up America rather
-  than a made-up Eastern Bloc country?
+*** Shaddy Safadi
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
 
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/shaddy-safadi.png" />
+
+*** Vince Lestrade
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
+
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/vince-lestrade.png" />
+
+*** Dari Ludum
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
+
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/dari-ludum.png" />
+
+*** Antegrian couple
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
+
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/antegrian-couple.png" />
+
+*** Jorji Costava
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
+
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/jorji-costava.png" />
+*** Lucas Pope
+:PROPERTIES:
+:reveal_background: ./img/papersplease/regular-gameplay-blur.jpg
+:END:
+
+#+REVEAL_HTML: <img class="stretch" src="img/papersplease/lucas-pope.jpg" />
+*** What if…
+- it were set in a US-ish country instead of a Soviet-style one?
+#+ATTR_REVEAL: :frag roll-in
+- the art style were based on photographs? Less realistic cartoons?
+#+ATTR_REVEAL: :frag roll-in
+- the game didn't directly penalize mistakes?
+** Clear-headed judgment
+
+#+BEGIN_QUOTE
+“Soldiers should always obey orders and regulations,” the colonel says […] “However,” he continues, […] “you must always use your clear-headed judgment (shikul-da’at). One can never know what they’ll try next. Orders and regulations are sacred but they cannot cover all possible scenarios. You must use your judgment to decide in any given case if it is an exception to the rule. There’s nothing as valuable as a soldier’s clear-headed judgment.”
+#+END_QUOTE
+
+Oded Na'aman. “The Checkpoint.” Boston Review, November 13, 2012. http://www.bostonreview.net/world/checkpoint-oded-naaman.
+
+*** The soldier and the child
+
+#+BEGIN_QUOTE
+When the child discovers the checkpoint is closed and he cannot get home, he begins to cry. Recalling the freedom and responsibility to exercise his clear-headed judgment, the soldier decides to let the child through. A while later, ten crying children come by. They all heard about a new way to pass through the checkpoint even when it is officially closed.
+#+END_QUOTE
+
+*** The soldier and the child
+
+#+BEGIN_QUOTE
+At this point, facing the crying children, the soldier realizes he made a mistake—not because these children are dangerous, but because he cannot afford to be fooled by ten-year-olds, or by anyone, for that matter. There cannot be an efficient way to pass through his checkpoint. Any such way may be used against him, against his mission.
+#+END_QUOTE
+
+Oded Na'aman. “The Checkpoint.”
+
+*** Role, parable, picture
+
+- How does this situation compare to that in /Papers, Please/?
+#+ATTR_REVEAL: :frag roll-in
+- How does the /mode of argumentation/ compare?
+#+ATTR_REVEAL: :frag roll-in
+- What would this look like as a game?
+
+** Games and empathy
+:PROPERTIES:
+:reveal_background: ./img/anna-anthropy-twitter-dark.png
+:END:
+
+#+BEGIN_QUOTE
+The problem with videogames is that they’re created by a small, insular group of people.
+#+END_QUOTE
+
+Anna Anthropy. /Rise of the Videogame Zinesters/. 5.
 ** Anna Anthropy, /Dys4ia/
 :PROPERTIES:
 :reveal_background: ./img/dys4ia.png
 :END:
 
-** /Tower of the Blood Lord/
+** Let's hear from the marginalized
+:PROPERTIES:
+:reveal_background: ./img/anna-anthropy-twitter-dark.png
+:END:
 
-*** /Tower of the Blood Lord/, by Michael Lutz
-#+REVEAL_HTML: <img class="stretch" src="img/michael-lutz.gif" />
+#+BEGIN_QUOTE
+Many of these games will be mediocre, of course; the majority of work
+in any form is mediocre. But we’ll see many more interesting ideas
+just by the sheer mathematical virtue of so many people producing
+games without the commercial obligations industry games are beholden
+to. […] And even if a game isn’t original, it’s personal, in the way a
+game designed to appeal to target demographics can’t be. And that’s a
+cultural artifact our world is a little bit richer for having.
+#+END_QUOTE
 
-- violence
-- simulation
-- consumer culture
-- class
+Anna Anthropy. /Rise of the Videogame Zinesters/. 11.
+
+* Five-minute design challenge, redux!
+
+** Design a role-playing game on the given topic
+- Work in groups of three or four.
+- Who do we play as?
+- What are we trying to accomplish?
+- What should we take away from the game?
+** 
+:PROPERTIES:
+:reveal_background: ./img/veggies-and-bass-reversed.jpg
+:END:
+** 
+:PROPERTIES:
+:reveal_background: ./img/veggies-and-bass-reversed.jpg
+:END:
+
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/5-minutes.mp4"></video>
+** Let's hear it!
+- Who do we play as?
+- What are we trying to accomplish?
+- What should we take away from the game?
+
+* Telling stories
+- systems
+- roles
+- stories
+
+** Michael Lutz, /Tower of the Blood Lord/
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-base.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/base.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-eat.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/eat.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-shower.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/shower.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-give-back.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/give-back.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-poverty.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/poverty.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-grandchildren.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/grandchildren.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-hug.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/hug.png" />
 
 *** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-glitch.png
-:END:
+#+REVEAL_HTML: <img class="stretch" src="img/blood-lord/glitch.png" />
 
-** /Prison Architect/ 
+*** Some themes
+violence, simulation, consumer culture, class, ?
 
+*** Does it make an argument?
 
-
-
-** /September 12th/, by Gonzalo Frasca
-:PROPERTIES:
-:reveal_background: ./img/sept12th-screen.jpg
-:END:
-
-
-** “Execution,” by Jesse Venbrux
-:PROPERTIES:
-:reveal_background: ./img/execution.png
-:END:
-
-** “Keep Me Occupied,” by Anna Anthropy
-:PROPERTIES:
-:reveal_background: ./img/keep-me-occupied.png
-:END:
-
-
-** /Cart Life/, by Richard Hofmeier
-:PROPERTIES:
-:reveal_background: ./img/cart-life-screen.png
-:END:
-
-#+REVEAL_HTML: <video src="vid/cart-life-trailer.webm"></video>
-
-** /Cart Life/, by Richard Hofmeier
-:PROPERTIES:
-:reveal_background: ./img/cart-life-screen.png
-:END:
-
-“The rules of the game are learned by living in its world, leading to
-many sad tales of cart vendors who bought the wrong ingredients,
-mothers that lost custody of their child, and immigrants so overworked
-that they forgot to feed their cat for days. Cart Life suggests these
-things happen in life more than we care to acknowledge.”
-
-—Allistair Pinsof, Destructoid.com
-
-** /Cart Life/, by Richard Hofmeier
-:PROPERTIES:
-:reveal_background: ./img/richard-hofmeier.jpg
-:END:
-
-#+ATTR_REVEAL: :frag roll-in
-“I’ve spent many days making change with a cash register, bucking hay
-bales, collating documents, book binding, editing video, screen
-printing, transcribing audio, taping boxes, stacking huge piles of
-newspapers, washing dishes. I’ve had a lot of these jobs where they
-seem impossibly nuanced for the first day or two, but you just pick it
-up. Isn’t that funny? How we’re all so work-averse, but we can do
-anything with enough practice.”
-
-** /Cart Life/, by Richard Hofmeier
-:PROPERTIES:
-:reveal_background: ./img/cart-life-howling-dogs.jpg
-:END:
+* Chat
+- What are the limits of game-based critique?
+- Any favorite examples of persuasive/political games?
+- ?
+* Don't be a stranger!
+Peter Shultz
+pashultz@gmail.com
 
