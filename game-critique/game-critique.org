@@ -7,146 +7,231 @@
 # 90 minutes for me, then we leave
 
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:t
-#+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:nil num:nil
-#+OPTIONS: reveal_width:1024 reveal_height:600
-#+OPTIONS: toc:nil
+#+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: toc:1
 #+REVEAL_MARGIN: 0.1
 #+REVEAL_MIN_SCALE: 0.5
 #+REVEAL_MAX_SCALE: 2.5
 #+REVEAL_TRANS: linear
 #+REVEAL_THEME: moon
 #+REVEAL_EXTRA_CSS: styles.css
-#+REVEAL_HLEVEL: 2
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_HLEVEL: 3
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Lecture slides on games as critique.">
+#+REVEAL_ROOT: ../reveal.js
 
-* Games as Critique
+* Why games? Why critique?
 
-Just like any other medium, games reflect and promote ideology.
+Games are an expressive medium.
 
-** But games are special
-- they let us play with systems
-- they let us inhabit roles
+They reflect and promote ideology.
 
-*** They do other things too!
-- they tell stories
-- they entertain us
-- they bore us
-- they frustrate us
-- etc.
+* Playing war
 
-*** But we’ll focus on those two
-- playing with systems
-- inhabiting roles
-
-* Part I: Representing systems
-
-“Even though other inscription techniques may be partly or wholly
-driven by a desire to represent human or material processes, only
-procedural systems like computer software actually represent process
-with process.” —Ian Bogost
-
-** Oil God
-:PROPERTIES:
-:reveal_background: ./img/oil-god.jpg
-:END:
-
-** Oil God
-
-“To me the game was just wrong because it was basically supporting the
-theory of artificial scarcity: since the oil companies tend to
-increase their profits after disasters and turmoils, there is a sort
-of disembodied will, connected to the oil industry that is actually
-causing these turmoils and disasters. I think that statement is
-partially true but above all it absolutely misleading if you want to
-explain the rise in oil prices.”
-
-—Paolo Pedercini (aka Molleindustria)
-
-** Oiligarchy
-:PROPERTIES:
-:reveal_background: ./img/oiligarchy.png
-:END:
-
-** Newsgames: Editorial simulation
-
-http://www.colbertnation.com/the-colbert-report-videos/91012/august-07-2007/ian-bogost
-
-** /September 12th/, by Gonzalo Frasca
-:PROPERTIES:
-:reveal_background: ./img/sept12th-screen.jpg
-:END:
-
-** The Rhetoric of Failure
-
-“Such games present a scenario that can't be won under the rules
-provided. These games make a statement about those rules, arguing that
-they are insufficient for the task to which they are currently being
-put.”
-
-—Ian Bogost
-
-** “Execution,” by Jesse Venbrux
-:PROPERTIES:
-:reveal_background: ./img/execution.png
-:END:
-
-** WarGames (1983)
-
-#+REVEAL_HTML: <video src="vid/wargames.webm"></video>
-
-** The Banalization of War
+** Full Spectrum Warrior
 :PROPERTIES:
 :reveal_background: ./img/fsw-screen.jpg
 :END:
 
-#+REVEAL_HTML: <video src="vid/fsw.webm"></video>
+- commissioned and used by the military as a training program
+- also a commercial version, with fancy graphics and friendly civilians
 
-** Full Spectrum Warrior
+*** 
+:PROPERTIES:
+:reveal_background: ./img/fsw-screen.jpg
+:END:
 
-“FSW [Full Spectrum Warrior]’s double life as actual trainer and
-virtual toy, we argue, aptly demonstrates the ‘banalization of war’
-(Hardt and Negri 2000, 12)—the enveloping sociocultural-emotional
-process habituating populations to the perpetual conflict of the war
-on terror.”
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/fsw.webm"></video>
 
-—Dyer-Witheford & de Peuter, p. 99
+*** What does this game say about war?
+:PROPERTIES:
+:reveal_background: ./img/fsw-screen.jpg
+:END:
 
-** ”The big lie of war-as-video-game”
+- soldiers are a diverse and supportive band of brothers
+- enemies are faceless and must be killed
+- no mutilation, no PTSD, almost no civilians
 
-“It is essential to FSW that time can be reversed, and every mistake
+*** Victory is your destiny
+:PROPERTIES:
+:reveal_background: ./img/fsw-screen.jpg
+:END:
+
+#+BEGIN_QUOTE
+It is essential to /FSW/ that time can be reversed, and every mistake
 undone; the ‘save-die-restart’ sequence makes Alpha and Bravo
 immortal. This is, of course, the big lie of war-as-video-game.
+#+END_QUOTE
 
-“There are other subsidiary lies in FSW’s virtual war. […] It is war
-without mutilation or post-traumatic stress disorder. It is also war
-without moral dilemmas. And there are almost no civilians.
-The miracle of Zekistan is that its streets are deserted and houses
-empty, apart from the ubiquitous Tangos (who all die instantaneously
-when hit). Air and artillery strikes do not hit wedding parties. There
-is no collateral damage. War is peace.”
+Dyer-Witheford, Nick, and Greig de Peuter. /Games of Empire: Global Capitalism and Video Games/. University of Minnesota Press, 2009. 112.
 
-Dyer-Witheford & de Peuter, pp. 112–113
+** What are the alternatives?
 
-** The message of commercial war games
+*** TODO /Operation Flashpoint: Cold War Crisis/ (2001)
+:PROPERTIES:
+:reveal_background: ./img/operation-flashpoint.jpg
+:END:
 
-“War is horrible /and/ badass”
+- "realistic damage": one bullet can kill you; there are no health packs
+- running ahead gets you killed
+- following orders may also get you killed
+- you don't always know the overall goal, or why you won or lost
 
-—Ian Bogost
+discussed in Gee, James Paul. /What Video Games Have to Teach Us About Learning and Literacy/. 2nd ed. New York: Palgrave Macmillan, 2004. 154--157.
 
-** /World War I Medic/, by Tarn Adams
+*** /WarGames/ (1983)
+
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/wargames.webm"></video>
+
+*** /World War I Medic/, by Tarn Adams
 :PROPERTIES:
 :reveal_background: ./img/ww1-medic.jpg
 :END:
 
+#+BEGIN_QUOTE
 “Saving even a single soul—climbing out of the trench, grabbing a
 fallen body and lugging it back to safety under a senseless hail of
-bullets—is incredibly difficult.” —Anna Anthropy
+bullets—is incredibly difficult.”
+#+END_QUOTE
 
-** /Spec Ops: The Line/
+Anthropy, Anna. /Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People like You Are Taking Back an Art Form/. Seven Stories , 2012. 19.
 
-“Unlike most shooters, Spec Ops: The Line wonders what kind of person
-likes virtual killing enough to spend hours engaged in it. It bothers
-to ask, ‘Aren't we all a little sick and crazy to want this?’” —Tom Bissell
+*** TODO /Spec Ops: The Line/
+:PROPERTIES:
+:reveal_background: ./img/spec-ops.jpg
+:END:
+
+#+BEGIN_QUOTE
+The game is perfectly aware that it’s incentivizing killing. It wants to. It’s aware that the “moral choice” moments it gives you amount to nothing. […]
+Unlike most shooters, Spec Ops: The Line wonders what kind of person likes virtual killing enough to spend hours engaged in it. It bothers to ask, “Aren’t we all a little sick and crazy to want this?”
+#+END_QUOTE
+
+Bissell, Tom. “Thirteen Ways of Looking at a Shooter.” Grantland.com, July 12, 2012. http://www.grantland.com/story/_/id/8157257/line-explores-reasons-why-play-shooter-games.
+
+*** /Tower of the Blood Lord/
+#+REVEAL_HTML: <img class="stretch" src="./img/blood-lord-base.png" />
+
+
+** Systems, roles, and stories
+- three interrelated modes of argumentation
+- all significant and (to an extent) particular to games
+* Representing systems
+
+#+BEGIN_QUOTE
+Even though other inscription techniques may be partly or wholly
+driven by a desire to represent human or material processes, only
+procedural systems like computer software actually represent process
+with process.
+#+END_QUOTE
+
+Bogost, Ian. /Persuasive Games: The Expressive Power of Videogames/. Cambridge, MA: MIT Press, 2007. 14.
+
+** Hold a mirror to the world
+#+REVEAL_HTML: <img class="stretch" src="img/newsgames.jpg" />
+*** /Sweatshop/
+#+REVEAL_HTML: <img class="stretch" src="img/sweatshop.png" />
+
+[[http://www.playsweatshop.com/]]
+
+*** /Oil God/
+:PROPERTIES:
+:reveal_background: ./img/oil-god.jpg
+:END:
+
+*** /Oiligarchy/
+:PROPERTIES:
+:reveal_background: ./img/oiligarchy.png
+:END:
+*** The Rhetoric of Failure
+
+#+BEGIN_QUOTE
+Such games present a scenario that can't be won under the rules
+provided. These games make a statement about those rules, arguing that
+they are insufficient for the task to which they are currently being
+put.
+#+END_QUOTE
+
+Bogost, Ian. “Review of I Can End Deportation.” /Water Cooler Games/,
+March 17, 2008.
+http://www.bogost.com/watercoolergames/archives/review_of_i_can.shtml.
+** Or make an unrealistic world that would justify the unjustifiable
+*** Anna Anthropy, /Police Bear/
+#+REVEAL_HTML: <img class="stretch" src="img/police-bear-animation.gif" />
+
+*** 
+#+REVEAL_HTML: <img class="stretch" src="img/police-bear.png" />
+
+*** 
+#+BEGIN_QUOTE
+for this klik of the month, it had been suggested that we all use animated gifs from this internet treasure trove. i knew that i wanted to make a game about police violence at the occupy protests, so i searched through their police category until i found the above masterpiece. the rest came out of that.
+#+END_QUOTE
+
+Anna Anthropy, http://auntiepixelante.com/?p=1325
+
+* Disagreeing with games
+
+** Ideology and realism
+
+*** The politics of /SimCity/, according to its developers
+:PROPERTIES:
+:reveal_background: ./img/ocean-quigley-dark.jpg
+:END:
+#+BEGIN_QUOTE
+So that the core agenda that I've got with this is to make a
+simulation that is a landscape that the player can explore,
+metaphorical landscape—you push on it and see what it happens. It's
+absolutely not to make an ideologically channeled experience where you
+have to get all pious and make the right environmental choices to win
+because that would be, frankly, absurd, as a gameplay experience. That
+becomes an exercise in propaganda, as opposed to giving you a
+simulation to explore.
+#+END_QUOTE
+
+Ocean Quigley, creative director of /SimCity/ (2013). http://www.gamasutra.com/view/news/172742/The_politics_of_SimCity.php
+
+*** The politics of /SimCity/, according to a political scientist
+:PROPERTIES:
+:reveal_background: ./img/kenneth-kolson-big-plans.jpg
+:END:
+
+#+BEGIN_QUOTE
+[…] there are problems in both versions of the inherent simulation […]
+Of these, I wish to focus on three: /SimCity/'s exaggeration of the
+role of state planning in urban development; its neglect of one of the
+most salient features of American urban life---race; and its
+underestimation of the social---as opposed to the
+material---dimensions of city life.
+#+END_QUOTE
+
+Kolson, Kenneth. “The Politics of SimCity.” /PS: Political Science and Politics/ 29, no. 1 (March 1, 1996): 43–46.
+
+** /Prison Architect/
+:PROPERTIES:
+:reveal_background: ./img/prison-architect.png
+:END:
+
+Criticisms:
+- Prisoners riot all the time
+#+ATTR_REVEAL: :frag roll-in
+- Drug offenses are underrepresented compared to violent crimes
+#+ATTR_REVEAL: :frag roll-in
+- No option for rehabilitation programs
+#+ATTR_REVEAL: :frag roll-in
+- The prison makes most of its money through unskilled work programs
+#+ATTR_REVEAL: :frag roll-in
+- Inmates are the product of an unseen outside world
+
+[[zotero://select/items/0_MATMBCZ4][Pedercini, Paolo. “​What To Do With Prison Architect, A Video Game About Building Prisons?” Kotaku, January 20, 2014. http://kotaku.com/what-to-do-with-prison-architect-a-video-game-about-b-1505204131.]]
+
+*** What grounds this critique?
+- In other words, why would any of this be a problem?
+#+ATTR_REVEAL: :frag roll-in
+- Is it a problem?
+
+* Interlude: design a game in three minutes
+
+** Vegetarianism /  
+
+* old slides
 
 ** Critique or glorification?
 
@@ -177,25 +262,12 @@ Chris Delay, lead designer and programmer
 :END:
 
 *** Cow Clicker
-[[file:img/cow-clicker.jpg]]
+#+REVEAL_HTML: <img class="stretch" src="img/cow-clicker.jpg" />
 
 ** The limits of system-based critique
 - To what extent is the meaning of the rules shaped by aesthetic
   presentation?
 - Can game mechanics carry a message in themselves?
-
-** SimCity and political neutrality
-
-“So that the core agenda that I've got with this is to make a
-simulation that is a landscape that the player can explore,
-metaphorical landscape—you push on it and see what it happens. It's
-absolutely not to make an ideologically channeled experience where you
-have to get all pious and make the right environmental choices to win
-because that would be, frankly, absurd, as a gameplay experience. That
-becomes an exercise in propaganda, as opposed to giving you a
-simulation to explore.”
-
-—Ocean Quigley, creative director of /SimCity/ (2013)
 
 ** Disruptive game mechanics
 
@@ -212,11 +284,6 @@ simulation to explore.”
 #+ATTR_REVEAL: :frag roll-in
 - Enshrining the preposterous: Games don’t need to be physics engines
 
-** “Keep Me Occupied,” by Anna Anthropy
-:PROPERTIES:
-:reveal_background: ./img/keep-me-occupied.png
-:END:
-
 ** 10-minute game design challenge
 
 - work in groups of three or four
@@ -225,17 +292,133 @@ simulation to explore.”
 - what systems do they interact with?
 - what do they learn or understand through playing the game?
 
-* Part II: Inhabiting roles
+** Part II: Inhabiting roles
 
-** /Papers, Please/, by Lucas Pope
-[[file:img/papers-please-jorji.png]]
+*** Gender in games
+- Mainstream games have not done well representing women
+- Anita Sarkeesian (Feminist Frequency) on the “Damsel in Distress” trope
+#+REVEAL_HTML: <img class="stretch" src="img/anita-sarkeesian.jpg" />
 
-** /Papers, Please/, by Lucas Pope
+*** Gender in games
+- Anna Anthropy: “The problem with videogames is that they’re created by a small,
+  insular group of people.”
+
+*** Anna Anthropy: We need different people making games
+
+“Many of these games will be mediocre, of course; the majority of work
+in any form is mediocre. But we’ll see many more interesting ideas
+just by the sheer mathematical virtue of so many people producing
+games without the commercial obligations industry games are beholden
+to. […] And even if a game isn’t original, it’s personal, in the way a
+game designed to appeal to target demographics can’t be. And that’s a
+cultural artifact our world is a little bit richer for having.”
+
+*** Twine and minorities
+
+http://twinehub.com/
+
+*** Game design challenge, round 2
+
+This time, focus on persuasion through role
+
+- work in groups of three or four
+- left: healthcare/insurance, right: immigration
+- whom/what does the player control?
+- what systems do they interact with?
+- what do they learn or understand through playing the game?
+
+** Part III: Telling stories
+
+* Contact
+Peter Shultz
+pashultz@uchicago.edu
+
+* examples -- can't use 'em all
+** Lucas Pope, /Papers, Please/
+#+REVEAL_HTML: <img class="stretch" src="img/papers-please-jorji.png" />
+
 - What changes over the course of the game?
 - What do its systems convey?
 - What about the player’s role?
 - What would be different if it were set in a made-up America rather
   than a made-up Eastern Bloc country?
+
+** Anna Anthropy, /Dys4ia/
+:PROPERTIES:
+:reveal_background: ./img/dys4ia.png
+:END:
+
+** /Tower of the Blood Lord/
+
+*** /Tower of the Blood Lord/, by Michael Lutz
+#+REVEAL_HTML: <img class="stretch" src="img/michael-lutz.gif" />
+
+- violence
+- simulation
+- consumer culture
+- class
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-base.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-eat.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-shower.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-give-back.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-poverty.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-grandchildren.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-hug.png
+:END:
+
+*** 
+:PROPERTIES:
+:reveal_background: ./img/blood-lord-glitch.png
+:END:
+
+** /Prison Architect/ 
+
+
+
+
+** /September 12th/, by Gonzalo Frasca
+:PROPERTIES:
+:reveal_background: ./img/sept12th-screen.jpg
+:END:
+
+
+** “Execution,” by Jesse Venbrux
+:PROPERTIES:
+:reveal_background: ./img/execution.png
+:END:
+
+** “Keep Me Occupied,” by Anna Anthropy
+:PROPERTIES:
+:reveal_background: ./img/keep-me-occupied.png
+:END:
+
 
 ** /Cart Life/, by Richard Hofmeier
 :PROPERTIES:
@@ -276,106 +459,3 @@ anything with enough practice.”
 :reveal_background: ./img/cart-life-howling-dogs.jpg
 :END:
 
-** “Police Brutality,” by Jason Rohrer
-:PROPERTIES:
-:reveal_background: ./img/jason-rohrer.jpg
-:END:
-
-[[file:img/police-brutality.jpg]]
-
-** “Police Bear,” by Anna Anthropy
-
-[[file:img/police-bear.png]]
-
-** Gender in games
-- Mainstream games have not done well representing women
-- Anita Sarkeesian (Feminist Frequency) on the “Damsel in Distress” trope
-[[file:img/anita-sarkeesian.jpg]]
-
-** Gender in games
-- Anna Anthropy: “The problem with videogames is that they’re created by a small,
-  insular group of people.”
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/dys4ia.png
-:END:
-
-** Anna Anthropy: We need different people making games
-
-“Many of these games will be mediocre, of course; the majority of work
-in any form is mediocre. But we’ll see many more interesting ideas
-just by the sheer mathematical virtue of so many people producing
-games without the commercial obligations industry games are beholden
-to. […] And even if a game isn’t original, it’s personal, in the way a
-game designed to appeal to target demographics can’t be. And that’s a
-cultural artifact our world is a little bit richer for having.”
-
-** Twine and minorities
-
-http://twinehub.com/
-
-** Game design challenge, round 2
-
-This time, focus on persuasion through role
-
-- work in groups of three or four
-- left: healthcare/insurance, right: immigration
-- whom/what does the player control?
-- what systems do they interact with?
-- what do they learn or understand through playing the game?
-
-* Part III: Tower of the Blood Lord
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-base.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-eat.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-shower.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-give-back.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-poverty.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-grandchildren.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-hug.png
-:END:
-
-** 
-:PROPERTIES:
-:reveal_background: ./img/blood-lord-glitch.png
-:END:
-
-** /Tower of the Blood Lord/, by Michael Lutz
-[[file:img/michael-lutz.gif]]
-
-- violence
-- simulation
-- consumer culture
-- class
-
-* The Takeaway
-- Games are political speech.
-- More and more people are speaking.
-- You could be one of them!
