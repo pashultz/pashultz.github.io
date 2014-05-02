@@ -1,0 +1,166 @@
+#+Title: Playing Music / Musicking Play
+#+Author: Peter Shultz
+#+Email: pashultz@gmail.com
+
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:nil
+#+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1024 reveal_height:600
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: moon
+#+REVEAL_EXTRA_CSS: styles.css
+#+REVEAL_HLEVEL: 1
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_ROOT: reveal.js
+
+* What do /Guitar Hero/ and /Rock Band/ force us to rethink?
+- What counts as musical activity
+- The authenticity of rock
+- The relationship between music and play
+* What counts as musical activity
+#+BEGIN_QUOTE
+It might take a culture-wide reassessment of human musicality to vouchsafe wide agreement that what players do with music in these games should even count as “musical.”
+#+END_QUOTE
+
+Miller, 86.
+** Schizophonic performance
+93: comparison to karaoke, lip-synching, air guitar
+113: brief mention of dance
+** /Guitar Hero/ as a substitute for real performance
+SF Chronicle writer: “What kid will ever want to pick up a real guitar, when learning to play a fake one is so easy?”
+
+Miller 98
+*** lrn2reeltar
+Miller 94
+** Four defenses offered by players
+1. They’re just games. No one actually thinks they’re playing music.
+2. They offer musical experiences to unmusical people.
+3. They can be a stepping stone to real music.
+4. They improve listening skills and cultivate respect for musicians.
+
+Miller 100–101
+** Closing the gap between virtual and visceral
+#+BEGIN_QUOTE
+In response, many players are closing the gap between virtual and visceral performance not only by achieving a note-by-note correspondence between physical input and audible output, but by performing like rock stars: They engage physically with their musical performances in ways that go far beyond what is required to provide accurate inputs to the game software.
+#+END_QUOTE
+ Miller 120
+* Rock authenticity
+** /Rock Band/ and reality.
+#+BEGIN_QUOTE
+Shooting another character in a video game doesn’t put a real bleeding corpse in your living room, but pressing buttons or hitting drum pads on game-controller instruments brings forth real music. This “realness” is grounded in a shared cultural assumption that music consists first and foremost of sound, so recorded music is not considered to be “fake” music (although live musical performance retains special status, and faked live performance therefore evokes special scorn).
+#+END_QUOTE
+Miller 103
+** Originality and spontaneity
+#+BEGIN_QUOTE
+There is a fundamental mismatch between these games’ musical-production mechanics and their guiding musical aesthetic. Rock musicians don’t perform from notation, and the guitar hero in particular is “a representative icon of individual creative expression” whose musical-genius status relies on apparent originality and spontaneity (Waksman 2001:124).
+#+END_QUOTE
+ Miller 114
+** Compare to playing Mozart
+#+BEGIN_QUOTE
+Is that not creative because you didn't write it?
+#+END_QUOTE
+Miller 118
+** Pleasure of performance
+#+BEGIN_QUOTE
+In assessing a song, players ask themselves whether it is satisfying to play, rather than whether it sounds good or is consistent with their ideas about their own tastes.
+#+END_QUOTE
+Miller 112
+** Rock Drag
+- Drag performance exposes the artifice of everyday gender performance
+- Similarly, these games expose the artifice of rock performance
+Miller 143
+** Freddie Wong
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/freddie-wong-yyz.mp4"></video>
+*** What needs to be real about this, and what can/should be fake?
+** Rock Band in bars, summer 2010
+*** Pranzo, Paris
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/rock-band-bar-paris.mp4"></video>
+*** Ned Devine's Irish Pub, Hemdon, VA
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/rock-band-bar-virginia.mp4"></video>
+*** Woody's, Dallas
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/rock-band-bar-dallas.mp4"></video>
+** Subjunctivity
+#+BEGIN_QUOTE
+    The subjunctivity of mimicry sidesteps the oft-rehearsed arguments over whether plastic guitars are “real” or “fake”: to insist on the distinction in a ludic context is as meaningless as it would be to argue over the toxicological effects of the “poison” taken by Leonora in a production of /Il Trovatore/.
+#+END_QUOTE
+Moseley 16
+** Chris Chike
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/iamchris4life-ttfaf.mp4"></video>
+* Music and/as play
+#+BEGIN_QUOTE
+ In both cases players have to master a particular technical interface—a game controller or an instrument—in order to realize specific, time-sensitive visual interactions in an environment that provides multisensory feedback. 
+#+END_QUOTE
+Miller 110
+** cont'd
+#+BEGIN_QUOTE
+Both practices rely on “[the] corporealization of perception, the translation of perception into bodily movement” (Lahti 2003: 164). And in both […], in order to play well, one must practice certain activities until they are internalized and don’t require conscious attention.
+#+END_QUOTE
+Miller 110
+** Donkey Kong Jungle Beat
+#+BEGIN_QUOTE
+Inside all the brilliance, however, still lurks that stupidity: it’s a game about jumping that you control with a fake musical instrument. This is not a sensible idea. Music is about performance. It’s about gradually evolving a mastery over a complex instrument. It’s practicing until you’re good enough to get past the hard bits. 
+#+END_QUOTE
+Margaret Robertson. “One More Go: /Donkey Kong Jungle Beat/.” Offworld, January 7, 2009. http://www.offworld.com/2009/01/one-more-go-donkey-kong-jungle.html.
+*** cont'd
+#+BEGIN_QUOTE
+It’s about taking some inert dots on paper - some crazy kind of code - and turning it into a living, breathing experience that’s always the same and yet always different. It’s about the sense of power and virtuosity produced when you finish a section with a flourish. Games, on the other hand, are...
+
+Hang on a second.
+#+END_QUOTE
+Margaret Robertson. "One More Go."
+** Raw musical skill doesn't translate to games
+#+BEGIN_QUOTE
+As the ball traces through the sequence at a perfectly constant speed, any attempt to make a melody of this course of movements, to grasp it as a human gesture, comes up against an insistent mathematical irregularity where melodies can't exist.
+#+END_QUOTE
+David Sudnow. /Pilgrim in the Microworld/. Hardcover. New York: Warner Books, 1983. 136.
+*** cont'd
+#+BEGIN_QUOTE
+From each shot to the next I must latch on to the ball anew to give my hand a next time of arrival completely independent of what happened before, so the attempt to establish an unfolding rhythm to link up one shot to the next is forever undermined and altogether pointless.
+#+END_QUOTE
+** Johan Huizinga, 42
+#+BEGIN_QUOTE
+It is quite natural that we should tend to conceive music as lying within the sphere of play, even apart from these special linguistic instances. Making music bears at the outset all the formal characteristics of play proper: the activity begins and ends within strict limits of time and place, is repeatable, 
+#+END_QUOTE
+*** Huizinga 42, cont'd
+#+BEGIN_QUOTE
+consists essentially in order, rhythm, alternation, transports audience and performers alike out of ‘ordinary’ life into a sphere of gladness and serenity, which makes even sad music a lofty pleasure.
+#+END_QUOTE
+*** Huizinga 42, cont'd
+#+BEGIN_QUOTE
+[…] Further, bearing in mind that the term ‘playing’ is never applied to singing, and to music-making only in certain languages, it seems probable that the connecting link between play and instrumental skill is to be sought in the nimble and orderly movements of the fingers.
+#+END_QUOTE
+** Roger Caillois
+#+REVEAL_HTML: <img class="stretch" src="./img/caillois.png" />
+*** Agôn and Alea
+#+REVEAL_HTML: <img class="stretch" src="./img/caillois-agon-alea.png" />
+*** /Rock Band/ tournament as high-school music competition
+Miller 140
+*** Mimicry and Ilinx
+#+REVEAL_HTML: <img class="stretch" src="./img/caillois-mimicry-ilinx.png" />
+
+** Ludomusicology
+#+BEGIN_QUOTE
+Whereas Laroche’s deployment of the term has reflected a primary interest in music within games, I am more concerned with the extent to which music might be understood as a game: as I see it, ludomusicology involves the study of both the musically playful and the playfully musical.
+#+END_QUOTE
+Moseley 6--7
+
+*** Moseley 6--7, cont'd
+#+BEGIN_QUOTE
+Bringing music and play into contact in this way offers access to the undocumented means by which composers, designers, programmers, performers, players, and audiences interact with music, games, and one another. It promises to account for competitive behavior, the acceptance and evasion of protocols and constraints, the pleasures of rhythmic bodies in motion, and the dizzy delight taken in exhibitions of virtuosity.
+#+END_QUOTE
+
+* A few questions
+- Why do Miller and Moseley pay so little attention to voice, compared to instruments?
+#+REVEAL_ATTR: :frag roll-in
+- What does /The Beatles: Rock Band/ say about the Beatles? 
+#+REVEAL_ATTR: :frag roll-in
+- Can we blame the decline and fall of /Rock Band/ and Harmonix on a slump in guitar rock? What about /DJ Hero/?
+#+REVEAL_ATTR: :frag roll-in
+- Why don't sports games irk people like this? (See Miller 151)
+
+* Other musical games, etc. 
+* Don't be a stranger!
+pashultz@gmail.com
