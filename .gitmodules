@@ -5,3 +5,10 @@
 [submodule "tactility/reveal.js"]
 	path = tactility/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+
+[submodule "beloit/reveal.js"]
+	path = beloit/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "beloit"]
+	path = beloit
+	url = https://github.com/hakimel/reveal.js.git
