@@ -8,7 +8,7 @@
 
 #+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:nil reveal_control:nil
 #+OPTIONS: reveal_mathjax:nil reveal_rolling_links:nil reveal_keyboard:t reveal_overview:t num:nil
-#+OPTIONS: toc:1
+#+OPTIONS: toc:nil
 #+REVEAL_MARGIN: 0.1
 #+REVEAL_MIN_SCALE: 0.5
 #+REVEAL_MAX_SCALE: 2.5
@@ -17,7 +17,7 @@
 #+REVEAL_EXTRA_CSS: styles.css
 #+REVEAL_HLEVEL: 3
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Lecture slides on games as critique.">
-#+REVEAL_ROOT: ../reveal.js
+#+REVEAL_ROOT: reveal.js
 
 * Why games? Why critique?
 
@@ -66,9 +66,9 @@ Nick Dyer-Witheford and Greig de Peuter. /Games of Empire: Global Capitalism and
 
 ** What are the alternatives?
 
-*** TODO /Operation Flashpoint: Cold War Crisis/ (2001)
+*** /Operation Flashpoint: Cold War Crisis/ (2001)
 :PROPERTIES:
-:reveal_background: ./img/operation-flashpoint.jpg
+:reveal_background: ./img/flashpoint.jpg
 :END:
 
 - "realistic damage": one bullet can kill you; there are no health packs
@@ -95,7 +95,7 @@ bullets—is incredibly difficult.”
 
 Anna Anthropy. /Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People like You Are Taking Back an Art Form/. Seven Stories , 2012. 19.
 
-*** TODO /Spec Ops: The Line/
+*** /Spec Ops: The Line/
 :PROPERTIES:
 :reveal_background: ./img/spec-ops.jpg
 :END:
@@ -167,7 +167,6 @@ for this klik of the month, it had been suggested that we all use animated gifs 
 
 Anna Anthropy, http://auntiepixelante.com/?p=1325
 
-*** 
 * Disagreeing with systems
 
 ** Ideology and realism
@@ -362,29 +361,7 @@ cultural artifact our world is a little bit richer for having.
 #+END_QUOTE
 
 Anna Anthropy. /Rise of the Videogame Zinesters/. 11.
-
-* Five-minute design challenge, redux!
-
-** Design a role-playing game on the given topic
-- Work in groups of three or four.
-- Who do we play as?
-- What are we trying to accomplish?
-- What should we take away from the game?
-** 
-:PROPERTIES:
-:reveal_background: ./img/veggies-and-bass-reversed.jpg
-:END:
-** 
-:PROPERTIES:
-:reveal_background: ./img/veggies-and-bass-reversed.jpg
-:END:
-
-#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/5-minutes.mp4"></video>
-** Let's hear it!
-- Who do we play as?
-- What are we trying to accomplish?
-- What should we take away from the game?
-
+* Whew. Let's take a ten-minute break.
 * Telling stories
 - systems
 - roles
@@ -420,6 +397,27 @@ Anna Anthropy. /Rise of the Videogame Zinesters/. 11.
 violence, simulation, consumer culture, class, ?
 
 *** Does it make an argument?
+* Five-minute design challenge, redux!
+
+** Design a role-playing game on the given topic
+- Work in groups of three or four.
+- Who do we play as?
+- What are we trying to accomplish?
+- What should we take away from the game?
+** 
+:PROPERTIES:
+:reveal_background: ./img/veggies-and-bass-reversed.jpg
+:END:
+** 
+:PROPERTIES:
+:reveal_background: ./img/veggies-and-bass-reversed.jpg
+:END:
+
+#+REVEAL_HTML: <video data-autoplay class="stretch" src="vid/5-minutes.mp4"></video>
+** Let's hear it!
+- Who do we play as?
+- What are we trying to accomplish?
+- What should we take away from the game?
 
 * Chat
 - What are the limits of game-based critique?
