@@ -1,0 +1,26 @@
+| title                              | credit                                                                                                                                                                            |
+|------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| bible-adventures-box.jpg           | Licensed under fair use via Wikipedia: https://en.wikipedia.org/wiki/File:BibleAdventuresBoxart.jpg                                                                               |
+| bible-adventures-cart.jpg          | Ebay: http://www.ebay.com/itm/UNLICENSED-BIBLE-ADVENTURES-MANUAL-SLEEVE-BLUE-WISDOM-TREE-NES-NINTENDO-/360863200034?hash=item54051f7322                                           |
+| bible-adventures-david.png         | [made it myself]                                                                                                                                                                  |
+| bible-adventures-moses.png         | [made it myself]                                                                                                                                                                  |
+| bible-adventures-noah.png          | [made it myself]                                                                                                                                                                  |
+| bible-adventures-store-display.jpg | http://www.platypuscomix.net/interactive/thingsyoucanteverhave2.html                                                                                                              |
+| color-dreams-group-shot.jpg        | Roger DeForest. "Color Dreams/Wisdom Tree 1991. Jumping for Jesus! From left: Vance Kozik, Jim Treadway, Dan Lawton, Scott Duckett, Roger Deforest."                              |
+| dan-burke.jpg                      | NES Warp Zone.com                                                                                                                                                                 |
+| deforest-and-duckett.jpg           | Roger DeForest. "Color Dreams/Wisdom Tree 1991. Here I am goofing off while a shirtless Scott Duckett tests Bible Adventures. Hey, that's how we tested back then!"               |
+| deforest-comments.png              | screenshot from http://colordreams.rogerdeforest.com/, <2015-09-13 Sun>                                                                                                           |
+| mansion-of-happiness.jpg           |                                                                                                                                                                                   |
+| menace-beach.gif                   |                                                                                                                                                                                   |
+| menace-beach-title.jpg             |                                                                                                                                                                                   |
+| pope-and-pagan.jpg                 | Image © The Strong, used under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. http://www.museumofplay.org/online-collections/3/48/114.1235 |
+| sunday-funday.gif                  |                                                                                                                                                                                   |
+| sunday-funday-title.jpg            |                                                                                                                                                                                   |
+| super-noahs-ark-cartridge.jpg      | http://www.bayesianeconomist.com/                                                                                                                                                                                  |
+| wisdom-tree-facilities.jpg         | http://www.thevintagegamers.com/2014/02/interview-with-wisdom-tree-owner-brenda-huff/                                                                                             |
+| wisdom-tree-facilities2.jpg        | http://www.thevintagegamers.com/2014/02/interview-with-wisdom-tree-owner-brenda-huff/                                                                                             |
+
+# Local Variables:
+# eval: (visual-line-mode -1)
+# eval: (writeroom-mode -1)
+# End:

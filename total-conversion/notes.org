@@ -1,0 +1,216 @@
+* TODO For the next version [0/2]
+- [ ] Snakes and Ladders was originally designed to teach Jain morality
+- [ ] @bornet:2012religions
+* DONE Stuff to talk about [32/32]
+- [X] what problems do these games raise?
+  + commercialism vs. sincere religious expression
+  + creativity vs. derivativeness
+  + who are they made for? kids, families, outreach ?
+- [X] the terms of criticism: gameplay, choice of story to adapt, religious sincerity
+  + a Christian complaining about the stories: http://www.beliefnet.com/columnists/gamingforgod/2011/08/bible-stories-that-demand-to-be-video-games.html
+- [X] verbs and metaphors conditioned by game tropes
+  + get to the finish line
+  + avoid obstacles
+  + shoot the bad guy
+  + Bible trivia games?
+- [X] /The Mansion of Happiness/: "first board game" published in the US. http://www.museumofplay.org/online-collections/3/48/104.282 and http://www.museumofplay.org/online-collections/3/48/78.412 sounds like a blast: "Whoever posesses Audacity, Cruelty, Immodesty, or Ingratitude, must return to his former situation . . . and not even think of Happiness, much less partake of it"
+- [X] /The Game of Pope and Pagan/: another early Christian board game. http://www.museumofplay.org/online-collections/3/48/114.1235, a reworking of the old Viking game Hnefatafl…
+- [X] … which is also the ancestor of the eleventh-century Irish game /Alea Evangelii/ (/Game of the Gospels/) https://en.wikipedia.org/wiki/Alea_evangelii @olmert:1987game
+- [X] contemporary representations of Christianity/Bible stuff in games: RPGs, BioShock (?), /El Shaddai/, /Binding of Isaac/, /That Dragon, Cancer/
+- [X] Wisdom Tree ironically has common cause with Nintendo, who are also famous for their conservative values. (Cf. same-sex relationships in Tomodachi Life, 2015, justified by the need for carefree fun.)
+- [X] https://en.wikipedia.org/wiki/Christian_video_game
+- [X] /The Simpsons/: Bart plays with the Flanders kids. (s11e14, "alone again, natura-diddily")
+- [X] Procedural rhetoric
+- [X] /Jesus in Space/, /Bongo Loves the Bible/
+- [X] contested narratives about these games: "kids these days prefer Nintendo to the Bible, so we're bringing the Bible to them," "clueless Christian parents will buy anything that says 'Bible' on it," and my favorite, "games reduce Bible stories to vulgar activities like shooting bad guys, collecting stuff, and getting to the finish line."
+- [X] Sutton-Smith: both the supporters and detractors view play as essentially pedagogical, or "progress." Does S-S offer alternative narratives?
+- [X] Why only Hebrew Bible stories at first? Were they hoping to work up to Jesus? Or did it somehow feel more blasphemous have kids play as Jesus? (Possibly supported by the one where you play as Joseph looking for Jesus)
+- [X] compare Christian wholesomeness with contemporary censorship by Nintendo NA and Disney. Duck Tales coffins, Final Fantasy "holy."
+- [X] what were Christian booksellers and their customers primarily concerned about in the early 90s?
+  + making sure the stuff they bought/sold was "Christian," and how Catholicism fit into that [@mcdannell:1998material 262].
+- [X] the /Castlevania/ episode with the Martin kids
+- [X] Why does it seem surprising (then and now) that there should be Christian games?
+- [X] [[https://www.reddit.com/r/Games/comments/39jy0w/unlicensed_snes_game_super_3d_noahs_ark_is_coming/][this reddit thread]]
+    #+BEGIN_QUOTE
+    JeebusJones 36 points 3 months ago:
+
+    It's fascinating that a Christian company was the one who finally figured out a way of avoiding copy protection by digitally bearing false witness.
+
+    Bobby_Marks2 58 points 3 months ago:
+
+    They weren't a Christian company. They targeted Christians with games because they realized that Christian bookstores were the one place where non-licensed NES games could sell well without Nintendo being able to step in. They ripped off their own games, hid from lawsuits by being a "Christian" company in a time where video games were still seen as something that turned kids into violent gang members, and basically every other under-handed trick in the book.
+
+    Imagine if Walmart started selling unlicensed Nintendo stuff. Naturally, Nintendo repsonds by pulling all of their licensed stuff, and it hurts Walmart's business. Wisdom Tree realized that there was a potential market that didn't actually sell licensed Nintendo products, and they went for that.
+
+    And when I say they weren't a Christian company, I don't mean that they weren't "Christ-like." I mean that the decision to be Wisdom Tree and make these games was purely a business decision.
+    #+END_QUOTE
+- [X] Race representation! @kosek:1999objects criticizes @mcdannell:1998material for neglecting race.
+- [X] the move from Color Dreams to Wisdom Tree cost them some programmers. Robert Bonifacio:
+  #+BEGIN_QUOTE
+  I also helped debug a game called 'Pesterminator the Western Exterminator' and then started a new project when Color Dreams went all Wisdom Tree and started making Bible games, that's when I left.
+  #+END_QUOTE
+  (interview by Jason Smith http://www.neswarpzone.com/bonifacio.html)
+
+  + also [[http://www.neswarpzone.com/burke.html][Dan Burke]]:
+    #+BEGIN_QUOTE
+    This is a funny story, because when they asked me to do Bible games under the Wisdom Tree banner, I was not into it because I was a Christian, and did not want to cheapen my beliefs by making money off them like that. The odd thing is, because of open discussion on religion with many people there I thought my position over and ultimately became an atheist, and now, I wouldn't work on Bible Games because I don't believe in it. I guess me and Bible games don't mix. :)
+    #+END_QUOTE
+
+  + Note that while he may have been a Christian, he wasn't a prude. This story dates to the year before Wisdom Tree began:
+    #+BEGIN_QUOTE
+    Glad you liked Challenge of the Dragon game\artwork...yeah I basically designed most of it, Dan Lawton and I rolled it around one night after coming back from some strip club. :)
+    #+END_QUOTE
+
+- [X] They knew they weren't making great art. Roger DeForest quote in screenshot, and [[http://www.neswarpzone.com/lawton.html][this]] from Dan Lawton:
+  #+BEGIN_QUOTE 
+  The Warp Zone (Jason Smith): What was your favorite game that you guys made? I personally liked Captain Comic the best yet I like a lot of them.
+
+  DL: We did the best we could with the limited resources we had, but for the most part I guess most of them were not very good. Crystal mines was probably the best game play. It certainly got the best letters from buyers.
+
+  …
+
+  TWZ: Well I really appreciate talking to you. I really like the Color Dreams games a lot.
+
+  DL: You can't be serious. We did the best we could, considering major stores were afraid to carry the unlicensed games, probably thinking Nintendo would punish them, but without large sales it wasn't possible to make the kind of quality of game we would have liked to make. So most of them were schlock. 
+  #+END_QUOTE
+  + and this from [[http://www.neswarpzone.com/stanley.html][Nina Stanley]], graphic artist. Sounds like it really was about having fun.
+    #+BEGIN_QUOTE
+    By this time I was going through a divorce and starting on my masters degree in art and had a young child to support - Color Dreams paid better and had more flexible hours than the coffee bar so it seemed like a good thing to do. Plus the guys were pretty fun to work with.
+
+    …
+
+    TWZ: Is there any other interesting things you can tell me about Color Dreams?
+
+    NS: We had a lot of fun making the games - "those were the days", when you could really make a game in 3 to 6 months with only a couple of programmers and an artist or two. Things are totally different now! The last game I worked on we had about a dozen artists and nearly as many programmers, plus a design team and the usual support staff of producer/director/aps/testers etc.
+    #+END_QUOTE
+
+  + Vance Kozik corroborates:
+    #+BEGIN_QUOTE
+    TWZ: What was it like working at Color Dreams?
+
+    VC: In the early days, it was quite fun. There was no schedule and most people were on salary, so the hours and days were very flexible, as well as the work environment and dress code. It was basically a bunch of nerds and artists crammed in a small two room office goofing around 'til the wee hours of the morning. Often times, we practically lived in that place... it wasn't uncommon to see Jim Treadway or Jon Valesh asleep in the oversized "Star Trek" swivel chairs that populated the office.
+
+    In the later days, it wasn't so fun. We were making bible games (as Wisdom Tree), which to everyone's surprise, sold very well. The company grew to over 60 employees (mainly sales and production) and game design became very business like. Schedules were enforced and the design/graphics team was very small compared to the Bunch Games / Color Dreams days. Now when programmers slept at the office, it was because of deadlines.
+    #+END_QUOTE
+
+- [X] Music seems to have been an afterthought. [[http://www.neswarpzone.com/deforest.html][DeForest]] says, "Oh yeah, I did music for one of the religious games...either Bible Adventures, Moses, or Joshua." Also Will Gibbons on /Captain Comic/.
+
+- [X] Brenda Huff, sales supervisor for Wisdom Tree. She and her husband owned the company.
+  #+BEGIN_QUOTE
+  WTG: Wisdom Tree was created to serve a niche market, the Christian Bookstore industry. The Bible-based games gave families an alternative to the sex and violence present in so many secular games. It was also an industry that Nintendo had no interest in. 
+  #+END_QUOTE
+
+- [X] Brenda Huff on the beginning of Wisdom Tree:
+  #+BEGIN_QUOTE
+  While I was not affiliated with Wisdom Tree (WT) at that time, I have heard two versions:
+
+  A. Mike Wilson, a Sunday School teacher in his off time, suggested the Bible-themed games as a way to reach young people without the violence.
+  B. Dan Lawton, the engineer who is responsible for reverse engineering the NES system to begin with, suggested Bible games as a joke.
+
+  I actually believe it was a combination of the two. Mike kept the idea alive. As they progressed they discovered a niche market, and things went on from there.
+  #+END_QUOTE
+
+- [X] Mortal Kombat and the perceived threat of video game violence
+  #+BEGIN_QUOTE
+  Actually, since we were mostly selling to the Christian Bookstore market, it actually helped. We were offering parents and gamers an alternative to the violence of so many other games. We were FAMILY FRIENDLY before family friendly was popular.
+  #+END_QUOTE
+
+- [X] Dan Lawton: "The christian market was attractive because they didn't have any nintendo games at all, and didn't give a fig about japanese distribution. In fact, if you told them that nintendo might be angry about them selling our games, that made them want to sell them even more. Christian book stores number about 9000 at any given time, and they all wanted to have our games. That's even more stores than Toys R us."
+- [X] @hendershot:1995shake: "Christian youth products may appeal to worried parents even more than they appeal to their pubescent children." 
+  #+BEGIN_QUOTE
+  Through their alternative media production, Focus and other Christian groups strive to forge a Christian youth identity that is legible to adults. It's not that "real" fundamentalist youth culture does not exist or that no kids take pleasure in Christian media (nor, if they do, that they suffer from what some Marxists would call "false consciousness"), but rather that it is adults who seem to be most obsessively interested in this culture. Adult-produced Christian youth culture is like adult-produced secular youth culture in one way: both reveal much about adult needs, desires, and fantasies.
+  #+END_QUOTE
+- [X] Hellraiser, then Wolfenstein into Super Noah's Ark 3D
+- [X] American vs. global culture. Getting out from under Nintendo's thumb. "Mukokuseki"?
+  - [X] Reconstructing the xenophobic discourse around games: origins in Cold War military technology, Tetris, Japanese invasion.
+  - [X] Xenophobic overtones (echoes of Pearl Harbor) in the subtitle of that "Game Over" book.
+  - [X] Asking Nina Stanley to keep up with the Japanese?
+- [X] The Gregory Jackson article presupposes an earnestly pedagogical project. Do these games fit that mold?
+  
+* DONE Readings
+- [X] Clark, Richard. 2015. “Meet the Christian Video-Game Makers.” Christianity Today, June 2. http://www.christianitytoday.com/ct/2015/may/meet-christian-video-game-makers.html. Treats /That Dragon, Cancer/ as a specimen of "empathy game," alongside /Gone Home/. Endorses the convergence of Christian and pop culture.
+
+- [X] DeForest, Roger. 2015. “Making Unlikely History at Color Dreams: The Story of a Nintendo Rarity: Secret Scout in the Temple of Demise.” Color Dreams – Wisdom Tree. Accessed August 2. http://colordreams.rogerdeforest.com/.
+- [X] Floyd, Samuel. 2014. “Interview with Wisdom Tree Owner Brenda Huff.” The Vintage Gamers. February 23. http://www.thevintagegamers.com/2014/02/interview-with-wisdom-tree-owner-brenda-huff/.
+- [X] Gibson, Nick. 2006. “Interview: Brenda Huff.” Sega-16. August 29. http://www.sega-16.com/2006/08/interview-brenda-huff/.
+- [ ] Heidbrink, Simone, and Tobias Knoll. 2014. Religion in Digital Games. Multiperspective and Interdisciplinary Approaches. Vol. 5. Online: Heidelberg Journal of Religions on the Internet. University of Heidelberg.
+- [X] Kosek, Joseph Kip. 1999. “Objects of Faith: Rethinking Kitsch, Christianity, and Material Culture.” American Studies 40 (3): 157–64.
+- [X] McDannell, Colleen. 1998. Material Christianity: Religion and Popular Culture in America. Yale University Press.
+- [X] McGuire, Meredith B. 2008. Lived Religion: Faith and Practice in Everyday Life. Oxford University Press, USA.
+- [X] Menconi, Al. 2005. “What Video Games Would Jesus Play?” Al Menconi Ministries. January 1. https://web.archive.org/web/20071101013436/http://www.almenconi.com/articles.php?art_id=70.
+- [X] Morgan, David. 2002. “Protestant Visual Practice and American Mass Culture.” Practicing Religion in the Age of the Media, 37–62.
+- [X] Nielsen, Martin. 2001. “Color Dreams.” NESWorld. http://www.nesworld.com/colordreams.php.
+- [X] Stafford, Patrick. 2012. “Higher Calling: The New Gospel of Christian Games.” Polygon. December 20. http://www.polygon.com/features/2012/12/20/3768184/higher-calling-the-new-gospel-of-christian-games.
+* Newspaper quotes
+** Wisdom Tree president on his motivations
+#+BEGIN_QUOTE
+Mike Wilson, a former Sunday-school teacher and vice president of Wisdom Tree, came up with the concept after watching students pay more attention to video games than the Bible. 
+
+"I felt helpless and pretty much at the mercy of these games," Wilson said, "because that's what kids are interested in and excited about. This gives kids a wholesome alternative to the sorcery and violence." 
+#+END_QUOTE
+Jeffrey Brody, "Bible heroes in video games: Ninjas make way for Noah and Moses on Christian tapes." /The Orange County Register/. March 19, 1991.
+
+#+BEGIN_QUOTE
+"I just wanted to develop something that was adventuresome as well as exciting, but at the same time had a lot of different moral issues that could pretty much mold their personality," Wilson says. 
+#+END_QUOTE
+Adelle M. Banks. "Nintendo fans can learn Bible stories while zapping bad guys." /Austin American-Statesman/. April 6, 1991.
+** You can't die
+#+BEGIN_QUOTE
+Characters climb, jump, run, "do almost anything a normal person can do," Wilson said. "You can never die in our games, but if you don't complete the level before you run out of health or strength, you have to start over." 
+#+END_QUOTE
+Neal Gendler. "The Word on Bible video game: It's a hit: Creator says playing Noah, 'slaying' Goliath make learning an adventure." /Star-Tribune Newspaper of the Twin Cities Mpls.-St. Paul/. April 24, 1991.
+
+* Games
+** Bible Adventures
+- Bach's "Jesu, Joy of Man's Desiring" on the title screen
+- in-game music is some kind of funky, ametrical bassline
+- cost $45 in 1992, equivalent to $70 today (urp).
+- sold a respectable ~350K copies. It's a little hard to compare this to other games, but /Tetris/ on the Game Boy (1990) sold 30 million, and the bestselling Christian album of 1992, Amy Grant's /Heart in Motion/, sold 5 million.
+** Exodus (NES, Wisdom Tree)
+- based on /Crystal Mines/
+- horribly tedious music, in the requisite major key. The /Crystal Mines/ music wasn't great, but at least it was a little more interesting.
+** Spiritual Warfare
+- according to [[https://www.christcenteredgamer.com/index.php/reviews/consoles/nes/4647-spiritual-warfare-nes][this critic]], this game is the exception to the Wisdom Tree rule of mediocrity. Note that even he puts their other games at arm's length.
+** Bible Builder
+** Captain Bible in Dome of Darkness
+** Bible Buffet
+
+* Email to Seth
+<2015-09-13 Sun>
+Hi Seth,
+
+Great to hear from you! Do you mean my job title, or the title of the talk? At Whitman, I'm an Adjunct Instructor of General Studies—basically one step down from Provost ;-) The talk doesn't really have a title yet, but maybe you can suggest one.
+
+It will center on Wisdom Tree, the company responsible for the best-selling Christian console games of that era. (They're the ones I mentioned in my first email.) The overall arc will be something like this:
+
+1. The discourse around these games usually cast them as trying to bridge the vast chasm between Christianity and pop culture. Wisdom Tree said they were bringing the Bible to the MTV generation and offering an alternative to violent video games. Critics maligned the games as being at once technically deficient and insincere: Wisdom Tree wasn't actually a Christian company, just a company that found a marketing niche with Christian bookstores. (That's not quite accurate; if there's time I'd like to offer the counternarrative of the ragtag goofballs who got hired by a Christian company to make these games.)
+2. These games were seen as thinly veiled versions of traditional, "violent" games. Instead of shooting monsters with bullets to kill them, you shoot them with "God's Word" to convert them, but you're still solving your problems by shooting, looting, or racing to the finish line. There didn't seem to be anything especially "Christian" about the gameplay. And in fact, several of the Wisdom Tree games are just their older, secular games with new graphics, text, and music.
+3. But these tropes of defeating enemies, grabbing stuff, and being first to the goal have been articulated through Christian board games for centuries. In the 1840s the first commercial board games in America were things like "Mansion of Happiness" (be virtuous, get to heaven) and "The Game of Pope and Pagan, or Siege of the Stronghold of Satan by the Christian Army" (defeat the Catholics and immigrants). And the latter is cousin to eleventh-century Irish "Alea evangelii" (Game of the Gospels), which is itself a "moralization" of the even older Viking game Hnefatafl. So this crossover is not new; in fact it's so old that one might as well say these gameplay tropes are themselves conditioned by Christianity.
+
+** Background reading
+I got some good primary sources (mainly newspaper articles and personal histories, which I'll present in the lecture) but didn't manage to find much academic literature that was directly relevant to these games. Chapter 8 of Colleen McDannell's book was pretty good and would probably be worth a look, if it doesn't duplicate too much stuff that's covered elsewhere in the course.
+
+McDannell, Colleen. 1998. “Christian Retailing.” In /Material Christianity: Religion and Popular Culture in America/, 222–69. Yale University Press.
+
+Do you have any other suggestions? 
+
+** How to play the games
+Unfortunately not all the games are available to play online, but these links should suffice:
+- [[http://nesninja.com/game/nes/bible-adventures][Bible Adventures for NES]] :: This site is a little sketchy, but this is (AFAIK) the game that started it all for Wisdom Tree.
+- [[https://archive.org/search.php?query=creator%253A%2522Wisdom+Tree%252C+Inc.%2522][Internet Archive: Wisdom Tree games]] :: Unfortunately /Spiritual Warfare/, the best of their games, is copy protected, and the password doesn't seem to be available on the Internet. But students could play the couple levels of the wretched /Exodus/.
+- [[https://archive.org/details/msdos_Captain_Bible_in_the_Dome_of_Darkness_1994][Internet Archive: Captain Bible in the Dome of Darkness]] :: This one's not by Wisdom Tree, and it's actually kind of neat: you defeat the evil "cybers" by using Bible verses to correct their misconceptions. I might bring it up as a foil to the Wisdom Tree games, which gestures toward another (mostly unexplored) approach to faith in games. The only other game I know that attempts something like this is the intriguingly named [[http://www.wisdomtreegames.com/games/jesusinspace/][Jesus in Space]].[fn:1]
+
+I'd recommend that students try /Bible Adventures/ and /Exodus/, and /Spiritual Warfare/ too, if they can find a copy and get it working.
+
+This is so exciting! I can't wait to see you, and to show this stuff to your students.
+
+Best,
+Peter
+
+** Footnotes
+
+[fn:1] Not to be confused with [[http://jesusinspace.com/about/][the book]] /Jesus in Space: A Christian Space Opera/.
+
+
+#  LocalWords:  derivativeness
+
